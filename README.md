@@ -1,4 +1,4 @@
-# DIO-Python-Developer-Formation
+# DIO Python Developer Formation
 
 ![Formação Python Developer](https://github.com/eriksensousa/DIO-Python-Developer-Formation/assets/126014537/8c219355-3eb9-4916-b816-2d3e6ccceeb9)
 
